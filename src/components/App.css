@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.HeaderContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+}
+
+.HeaderContainer a {
+    color: #000000;
+    text-decoration: none;
+    border-bottom: #000000 1px solid;
+}
+
+.HeaderContainer a:hover {
+    color: red;
+}
+
+.HeaderContainer a:nth-child(1) {
+    width: 70px;
+    border-bottom: #000000 1px solid;
+    padding: 10px 0 10px 0;
+}
+
+.HeaderContainer a:nth-child(2) {
+    flex: 1;
+    border-left: #000000 1px solid;
+    padding: 10px 20px 10px 20px;
+}
