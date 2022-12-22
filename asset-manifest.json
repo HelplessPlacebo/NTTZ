@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NTTZ/static/css/main.2592e38c.css",
+    "main.js": "/NTTZ/static/js/main.6ba5df2a.js",
+    "index.html": "/NTTZ/index.html",
+    "main.2592e38c.css.map": "/NTTZ/static/css/main.2592e38c.css.map",
+    "main.6ba5df2a.js.map": "/NTTZ/static/js/main.6ba5df2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2592e38c.css",
+    "static/js/main.6ba5df2a.js"
+  ]
+}
